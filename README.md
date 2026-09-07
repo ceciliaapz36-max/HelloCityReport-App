@@ -5,7 +5,7 @@ Proyecto de Programación (2027-1).
 ## Equipo
 - Angeles Martinez Cecilia Nayeli
 - Torres Moreno David Isaí
-- [3]
+- Ramos Hernández Carlos Eduardo
 - [4]
 
 ## Arquitectura base

@@ -4,7 +4,7 @@ Proyecto de Programación (2027-1).
 
 ## Equipo
 - Angeles Martinez Cecilia Nayeli
-- [2]
+- Torres Moreno David Isaí
 - [3]
 - [4]
 
